@@ -9,4 +9,5 @@ Findings:
 2. While partial democratization is associated with a decline in trust (primary, secondary), the transition to full-fledged liberal democracy is connected with an increase in trust (secondary)
 3. In a crisis situation, education plays a more important role in a liberal democracy than in an autocracy in “predicting” trust.
 4. No theory fully describes the observed patterns
+
 For more details: https://lup.lub.lu.se/student-papers/record/9242675
